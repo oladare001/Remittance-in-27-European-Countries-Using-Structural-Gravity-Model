@@ -1,4 +1,6 @@
 
+*Financial Institutions, Exchange Rate Regimes, and Bilateral Remittances in Europe Using Structural Gravity ModelFinancial Institutions, Exchange Rate Regimes, and Bilateral Remittances in Europe Using Structural Gravity Model
+*This study examines the impact of financial institutions’ similarity across 27 European countries on bilateral remittances using structural gravity model from 2010 to 2020. The data are yearly panel data composed of world bank financial data, the matrix of bilateral remittances, and gravity bilateral data. The empirical analysis uses Poisson Pseudo-Maximum Likelihood (PPML) estimates, pair fixed effects, and country-time effects, which control for endogeneity. The empirical analysis shows an insignificant impact of financial institutions’ similarities across European countries on bilateral remittances. However, the study shows that dummy variables like exchange rate systems in sending countries, sending countries in Euro Area , and European Union receiving countries and paired members have a significant impact on bilateral remittance. Factors like border, GDP, and distance also have a significant impact as expected. Robustness checks to control for possible Covid-19 effects are considered.*
 
 *import excel "\\domenis.ut.ee\DFS\Desktops\darestep\Desktop\Stephupdate\MastermergepartA.xlsx", sheet("Sheet1") firstrow clear
 
